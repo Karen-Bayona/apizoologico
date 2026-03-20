@@ -7,5 +7,5 @@ app.get('/', (req,res)=>{
 })
 
 app.listen(port, () => {
-    console.log('La aplicación se está ejecurando por el puerto' + port )
+    console.log('La aplicación se está ejecutando por el puerto' + port )
 })
